@@ -22,11 +22,8 @@ jobs:
     - name: Check Go version
       run: go version
     
-    - name: Check Go version again
-      run: go version
-    
     - name: Hugo Deploy GitHub Pages
-      uses: benmatselby/hugo-deploy-gh-pages@master
+      uses: bhargavkathivarapu/hugo-deploy-gh-pages@master
       env:
         HUGO_VERSION: 0.69.1
         TARGET_REPO: bhargavkathivarapu/bhargavkathivarapu.github.io
