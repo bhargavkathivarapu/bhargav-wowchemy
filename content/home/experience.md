@@ -29,12 +29,15 @@ experience:
     date_start: '2017-07-24'
     date_end: ''
     description: |2-
-        Worked with Apple Inc. Client
-        Part of Payments and Commerce team at Apple
+        Worked with Apple Client.
+        Part of Payments and Commerce team at Apple.
+
         Responsibilities include:
 
         * Data Engineering
         * Business Analysis
+
+        Technologies : Spark, Teradata, Kubernetes
 
   - title: Intern
     company: Visa Inc.
@@ -42,5 +45,7 @@ experience:
     location: Bangalore
     date_start: '2016-05-15'
     date_end: '2016-07-15'
-    description: Enriched hotel transactions data using fuzzy string match in pySpark .
+    description: |2-
+        Enriched hotel transaction data using fuzzy string matching.
+        Used pyspark for Enrichmment Pipeline .
 ---

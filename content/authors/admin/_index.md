@@ -14,7 +14,7 @@ organizations:
   url: https://www.wipro.com/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include reinforcement learning, knowledge representation and  robotics.
+bio: My research interests include Reinforcement learning, Knowledge representation and Robotics.
 
 # Interests to show in About widget
 interests:
@@ -45,10 +45,10 @@ social:
 #  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/bhargavkathivarpu
+  link: https://github.com/bhargavkathivarapu
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/bhargavkathivarpu
+  link: https://in.linkedin.com/in/bhargav-kathivarapu-44485739
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`,
@@ -58,16 +58,17 @@ social:
 #   link: media/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "bhargavkathivarapu31@gmail.com"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
 
-I am currently working a Project Engineer in Wipro . Part of Payments and Commerce team at Apple as a offshore vendor from Wipro.
-My work includes Data Engineering and Business Analysis. Build ETL pipelines using spark and Teradata
-Aspiring to be a research scientist in Machine learning Field. Independent researcher
+I am working as Project Engineer in Wipro .Currently I am a part of Payments and Commerce team at Apple as a offshore vendor from Wipro.
+My responsibilities encompass that of Business Analyst and Data Engineer.
 
-My other recently found interests include philosiphy and arts
+Aspiring to be a Research Scientist in Machine Learning Field.
+
+Other than academics I enjoy reading about philosophy, arts
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
